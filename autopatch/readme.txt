@@ -1,0 +1,1 @@
+This document is an automated patch clamp related program, in which autopatch-V2.5 is our current version, and the others are previous versions or some subvi. 
